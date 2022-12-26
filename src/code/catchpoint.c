@@ -15,6 +15,7 @@ exit(1);
 {
 exit(0);
 }
-}printf("hello world\n");
+}
+printf("hello world\n");
 return 0;
 }
